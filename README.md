@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AasimRehaan
+- 👋 Hi, I’m Aasim Rehaan
 - 👀 I’m interested in Recruiting
 - 🌱 I’m a Recruiting Manager 
-- 💞️ I’m looking to Candidates 
+- 💞️ I’m looking for Candidates 
 - 📫 You can reach me at aasim.r@volantis.com 
 
 <!---
